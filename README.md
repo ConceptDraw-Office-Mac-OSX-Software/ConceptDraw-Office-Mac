@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/27813/m/phpggyopj-logo.png?v=1698247049" width="200"><br>
+<img src="https://www.conceptdraw.com/products/icons/office4/OFF-LOGO-COLOR.png" width="200"><br>
 <a href="https://mac-share-apps.github.io/.github/conceptdraw-office">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
